@@ -1,0 +1,55 @@
+class CartAttributeEntity{
+  int? id;
+  int? price;
+  int? discountPrice;
+  String? name;
+  String? image;
+  int? yakaTypeValue;
+  int? geepExcesoryTypeValue;
+  int? handTypeValue;
+  int? gypsourTypeValue;
+  int? geepTypeValue;
+  int? zraierTypeValue;
+  String? yaka;
+  String? hand;
+  String? length;
+  String? waist;
+  String? notes;
+  String? shoulder;
+  String? handLength;
+  String? neck;
+  String? bat;
+  String? Belowbat;
+  String? jisor;
+  String? step;
+  String? elbow;
+  int? count;
+
+  CartAttributeEntity(
+      {
+        required this.image,
+        required this.id,
+        required this.name,
+        required this.price,
+        required this.discountPrice,
+        required this.yakaTypeValue,
+        required this.geepExcesoryTypeValue,
+        required this.handTypeValue,
+        required this.gypsourTypeValue,
+        required this.geepTypeValue,
+        required this.zraierTypeValue,
+        required this.yaka,
+        required this.hand,
+        required this.length,
+        required this.waist,
+        required this.notes,
+        required this.shoulder,
+        required this.handLength,
+        required this.neck,
+        required this.bat,
+        required this.Belowbat,
+        required this.jisor,
+        required this.step,
+        required this.elbow,
+       required this.count});
+}

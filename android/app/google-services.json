@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419339023954",
+    "project_id": "green-thoob",
+    "storage_bucket": "green-thoob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419339023954:android:050bad02fd423af17d118b",
+        "android_client_info": {
+          "package_name": "com.tatbeqakum.Greenthoob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419339023954-lkt7e289ttk332vlgpd0eojl9bcbm568.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tatbeqakum.Greenthoob",
+            "certificate_hash": "8f30f462bfc6427ffe7e6ec0f674ce5ff1540b86"
+          }
+        },
+        {
+          "client_id": "419339023954-02c6qjvbt9br159dehcne01l1fmoa55h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLSfl8svO7PerYbojuR8c_0L_L7WbGH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419339023954-02c6qjvbt9br159dehcne01l1fmoa55h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
